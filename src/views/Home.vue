@@ -7,11 +7,11 @@
           <br />
           right at your doorstep.
         </h1>
-        <h2 class="text--black" style="opacity: 0.87">
+        <h2 class="text--black mb-4" style="opacity: 0.87">
           Introducing <strong>MyBeans</strong>.
         </h2>
 
-        <v-btn tile elevation="0" color="" outlined> Open the app </v-btn>
+        <v-btn tile elevation="0" color="" class="pa-8" outlined style="font-size: 2rem"> Open the app </v-btn>
       </div>
     </header>
     <section
